@@ -172,7 +172,7 @@ UpgradeLog*.XML
 UpgradeLog*.htm
 
 # SQL Server files
-*.mdf
+# *.mdf Allow SQL Server files for this demo project
 *.ldf
 
 # Business Intelligence projects
